@@ -1,0 +1,31 @@
+
+33. TASK 6 - LeetCode 2235: ADD TWO INTEGERS
+--------------------------------------------
+
+Implement the required method:
+
+	class Solution {
+		public int sum(int num1, int num2) {
+			// Return the sum.
+		}
+	}
+
+Explain:
+
+- the parameter types
+- the return type
+- why no Scanner or main method is required by the LeetCode submission
+- the time and auxiliary-space cost at an introductory level
+ 
+
+class Solution {
+    public int sum(int num1, int num2) {
+        return num1+num2;
+    }
+}
+
+
+parameter - int type 
+return type - int 
+LeetCode automatically provides the input values & calls the method so no Scanner or main method is required
+time complexity O(1)
